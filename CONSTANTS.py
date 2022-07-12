@@ -1,0 +1,9 @@
+greetings_text = """
+Чат-Бот для подбора пары Vkinder приветствует тебя!
+Возможно я смогу помочь тебе найти любовь!
+Для начала поиска напиши - start"""
+
+token = 'fZ_djMLNLHos8C27leUXN6N3LR0Dxtd0ZGvpjRt5gGHvNUh3RsxbPkgKLS3VC8eZy9FWRfcL5uu5Hyec2XmRG7JPo8P81aMiyA7MeojfN8Yq5qGjJ4gEb6rtxy2_tw8PJpHmsbLhpr8w_e_qhjk72iGKUI6Xd9AKz_IkTXfo1BXIarK66om'
+token_personal = 'vk1.a.n_cMfba5Ao7gK_B144KtSc0-9vlTwo34BEBdRS7osNRY28Spqh8rsJq_UdMkUu65SyBiTGTaQXaIQkyV3B5LnVDG9FCuonNOpE-EW8SoJw91XLm8bturH2V7Z4IaBJQrk754Ic18DdOx6cTNTEiL0G6g5jqYl0gpACtn4FWeJbED1oV7XGXbNSajSAYcSjuK&'
+
+
